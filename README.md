@@ -4,13 +4,13 @@
 
 ![Modern iPhone 15 inspired website using Three.js and GSAP animations.](/.github/images/img_main.png "Modern iPhone 15 inspired website using Three.js and GSAP animations.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/apple-clone/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/apple-clone/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/apple-clone/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/apple-clone/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/apple-clone/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/apple-clone/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/sachinpundir78/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78/apple-clone/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78/apple-clone/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/sachinpundir78/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78/apple-clone/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/sachinpundir78/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78/apple-clone/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/sachinpundir78/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78/apple-clone/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/sachinpundir78/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/sachinpundir78/apple-clone/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2c95681-9266-4df6-9fec-324951ab778b/deploy-status)](https://app-iphone.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
@@ -153,7 +153,7 @@ Useful resources and dependencies that are used in Apple Clone.
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Follow Me](https://img.shields.io/github/followers/sachinpundir78?style=social&label=Follow&maxAge=2592000)](https://github.com/sachinpundir78 "Follow Me")
 [![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fapple-clone "Tweet about this project")
 [![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
@@ -185,15 +185,17 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/apple-clone&Timeline">
+<a href="https://star-history.com/#sachinpundir78/apple-clone&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/apple-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/apple-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/apple-clone&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sachinpundir78/apple-clone&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sachinpundir78/apple-clone&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sachinpundir78/apple-clone&type=Timeline" />
 </picture>
 </a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-#   A p p l e - C l o n e  
+#   A p p l e - C l o n e 
+ 
+ #   A p p l e - C l o n e  
  
