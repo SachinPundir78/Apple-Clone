@@ -171,7 +171,7 @@ For Netlify-specific information:
 
 You're encouraged to contribute and provide feedback on [Netlify's GitHub repository](https://github.com/netlify/netlify).
 
-## :page_with_curl: Deploy on Netlify
+## :page_with_curl: Deploy on Vercel
 
 The simplest way to deploy your React.js app is to use the [Netlify Platform](https://app.netlify.com/start) - a powerful platform for modern web projects.
 
@@ -195,3 +195,5 @@ You can also give this repository a star to show more people and they can use th
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+#   A p p l e - C l o n e  
+ 
